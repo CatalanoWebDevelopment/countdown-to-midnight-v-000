@@ -8,7 +8,7 @@ def countdown(seconds)
   return "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep(num_secs)
+def countdown_with_sleep(1)
   seconds = 5
   until seconds == 0
     seconds -= 1
